@@ -1,0 +1,25 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 6%;
+}
+.nav{
+    display: flex;
+    list-style-type: none;
+}
+.nav-link{
+  margin-left: 20px;
+  text-decoration: none;
+  color: black;
+}
+
+.logo{
+    font: bolder;
+    font-size: 30px;
+    color: #0d6efd;
+    text-decoration: none;
+}
+
+.nav-link:hover{
+    color: #0d6efd;
+}
